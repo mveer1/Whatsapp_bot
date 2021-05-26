@@ -5,5 +5,3 @@ Now we need to upload our server and the bot to the hosting and name your domain
 
 references
 - chat.api
-
-  You can access the complete source code by clicking on the link to GitHub: https://github.com/chatapi/whatsapp-python-bot
